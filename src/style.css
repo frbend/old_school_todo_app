@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-zinc-800 text-zinc-100;
+  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
